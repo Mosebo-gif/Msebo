@@ -1,0 +1,18 @@
+/* App.css */
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: blue;
+  color:white;
+  margin: 10;
+  padding: 10;
+  height: 100vh; /* Full viewport height */
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+}
+
+.container {
+  max-width: 1000px;
+  padding: 100px;
+}
